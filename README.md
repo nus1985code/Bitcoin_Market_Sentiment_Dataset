@@ -14,7 +14,7 @@ Repository Structure
 bash
 Copy
 Edit
-ds_<Nusrat_Rizvi>/
+ds_<your_name>/
 ├── notebook_1.ipynb         # Main analysis notebook (Google Colab)
 ├── csv_files/               # Raw and processed CSV files
 ├── outputs/                 # Visual outputs: charts and graphs (PNG/JPG)
